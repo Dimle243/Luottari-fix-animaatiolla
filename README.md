@@ -1,1 +1,1 @@
-# Luottari-fix-animaatiolla
+# Luottari-fix
